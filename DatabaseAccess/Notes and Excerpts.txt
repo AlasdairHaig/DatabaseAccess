@@ -1,0 +1,27 @@
+﻿The following code was taken from the _SubmitBtn_Click method for the submit button.
+
+
+            // This code works, to add row directly to database, however it does not affect the table
+            /*
+            using (OleDbConnection conn = new OleDbConnection(connectionString))
+            {
+                conn.Open();
+
+                String query = "INSERT INTO Mitarbeiter (Name, Vorname, Hausnummer, Strasse, PLZ, Ort) VALUES(@name,@vorname,@hausnummer, @strasse, @PLZ, @ort)";
+
+                OleDbCommand command = new OleDbCommand(query, conn);
+                command.Parameters.AddWithValue("@name", ma.Name);
+                command.Parameters.AddWithValue("@vorname", ma.Vorname);
+                command.Parameters.AddWithValue("@hausnummer", ma.Hausnummer);
+                command.Parameters.AddWithValue("@strasse", ma.Strasse);
+                command.Parameters.AddWithValue("@PLZ", ma.Postleitzahl);
+                command.Parameters.AddWithValue("@ort", ma.Ort);
+                command.ExecuteNonQuery();
+
+                conn.Close();
+            }
+
+            tbl.Clear();
+            fillGridView();
+            fillListView();
+            */

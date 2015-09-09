@@ -1,0 +1,8 @@
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\DatabaseAccess\DatabaseAccess\obj\x86\Debug\DatabaseAccess.ContactList.resources
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\DatabaseAccess\DatabaseAccess\obj\x86\Debug\DatabaseAccess.Properties.Resources.resources
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\DatabaseAccess\DatabaseAccess\obj\x86\Debug\DBAccessing.csproj.GenerateResource.Cache
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\DatabaseAccess\DatabaseAccess\bin\Debug\DatabaseAccess.exe
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\DatabaseAccess\DatabaseAccess\bin\Debug\DatabaseAccess.pdb
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\DatabaseAccess\DatabaseAccess\obj\x86\Debug\DatabaseAccess.exe
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\DatabaseAccess\DatabaseAccess\obj\x86\Debug\DatabaseAccess.pdb
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\DatabaseAccess\DatabaseAccess\obj\x86\Debug\DBAccessing.csprojResolveAssemblyReference.cache

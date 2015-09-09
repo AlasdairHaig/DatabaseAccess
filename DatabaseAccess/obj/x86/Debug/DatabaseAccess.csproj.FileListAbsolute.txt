@@ -1,0 +1,3 @@
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\DatabaseAccess\DatabaseAccess\obj\x86\Debug\DatabaseAccess.Form1.resources
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\DatabaseAccess\DatabaseAccess\obj\x86\Debug\DatabaseAccess.Properties.Resources.resources
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\DatabaseAccess\DatabaseAccess\obj\x86\Debug\DatabaseAccess.csproj.GenerateResource.Cache
